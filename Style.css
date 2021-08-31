@@ -1,0 +1,40 @@
+body{
+    background-color: lavender;
+    text-align: center;
+    
+}
+b{
+    color:purple;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+}
+h5{
+    color: black;
+    font-size: 25px;
+}
+hr{
+color: black;
+}
+.bob3{
+    background-color: rgb(252, 172, 185);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+    margin-bottom:  50px; ;
+} 
+.copyright_footer{
+    position: fixed;
+    color: purple;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(223, 255, 105);
+    text-align: center;
+    line-height: 3;
+    font-weight: bold;
+}
+li{
+    text-align: center;
+}
